@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-five-pointed-star {
- --star-color:orange;
+.five-pointed-star {
+ --star-color:yellow;
  margin:1em auto;
  font-size:10em;
  position: relative;
